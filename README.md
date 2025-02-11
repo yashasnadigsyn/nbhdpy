@@ -5,7 +5,9 @@ play nbhd songs, no ads, no pop-ups and free.
 
 ## usage
 p - pause
+
 s - skip
+
 q - quit
 
 that's it...
